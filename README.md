@@ -1,51 +1,78 @@
 <div align="center">
 
-# Eduardo H. Souza
+# ryujiee
 
-**Desenvolvedor Full Stack · Go + Vue.js**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Fullstack+Developer;Go+%2B+Vue.js+%2B+Quasar;Realtime+Systems+%2B+Integrations;WhatsApp+API+%2B+Automation" alt="Typing SVG" />
 
-Construo plataformas de atendimento, integrações com WhatsApp/Meta e automações com IA que aguentam produção.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![E-mail](https://img.shields.io/badge/E--mail-610659?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo@infinitytech.net.br)
+<a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## O que faço hoje
+## about me
 
-**Athostec Telecom · New-Omni** · jan/2025 – atual
-Sou o maior contribuidor da plataforma omnichannel da empresa, com mais de 2.400 commits. Trabalho com WhatsApp Cloud API, WhatsApp Flows, filas duráveis para webhooks, migração de clientes entre servidores e API pública com webhooks.
-`Go` `Quasar` `PostgreSQL` `Redis` `WebSocket` `Docker`
+Fullstack developer who likes fast backends, clean interfaces and systems that keep running when traffic spikes.
 
-**Filmavys** · freelance
-Publicação automática em Instagram, Facebook, LinkedIn, YouTube e TikTok. Usa um job por destino com retry, tokens cifrados com AES-256-GCM e uma extensão do Chrome para o TikTok.
-`NestJS` `MongoDB` `BullMQ` `React`
-
-**Unicive** · PJ
-Agente comercial de IA com workflow de 16 estados, da triagem à matrícula. Preço e regra comercial vêm do banco, nunca do prompt.
-`Go` `Vue.js` `OpenAI`
-
-> Os repositórios desses produtos são privados. Os detalhes estão no meu LinkedIn.
-
----
-
-## Projetos abertos
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| [AI-assistent](https://github.com/ryujiee/AI-assistent) | Secretária de IA no WhatsApp: agenda, lembretes e finanças pessoais com function calling | Go · whatsmeow · OpenAI · PostgreSQL · Vue 3 |
-| [tiktok](https://github.com/ryujiee/tiktok) | Publica vídeos no TikTok de forma automática, com fila de cerca de 2.000 vídeos e agenda 3 vezes ao dia | Go · Debian |
-| [backrooms-experimental](https://github.com/ryujiee/backrooms-experimental) | Experimento 3D em primeira pessoa no navegador | JavaScript · Three.js |
-| [ryuShop](https://github.com/ryujiee/ryuShop) | API de pedidos e produtos, TCC do DevEvolution (IXCSoft) | Node.js · Express |
+```ts
+const ryujiee = {
+  role: "Fullstack Developer",
+  languages: ["Go", "TypeScript", "JavaScript"],
+  frontend: ["Vue.js", "Quasar", "React"],
+  backend: ["Node.js", "NestJS", "REST APIs", "WebSocket"],
+  data: ["PostgreSQL", "MongoDB", "Redis"],
+  infra: ["Docker", "NGINX", "Linux"],
+  focus: ["WhatsApp API", "Realtime Systems", "Integrations", "Automation"],
+}
+```
 
 ---
 
-## Stack
+## stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,vue,nodejs,nestjs,ts,js,react,tailwind,postgres,mongodb,redis,docker,nginx,linux,git,godot&perline=8" />
+<img src="https://skillicons.dev/icons?i=go,ts,js,vue,quasar,react,nodejs,nestjs,postgres,mongodb,redis,docker,nginx,linux,arch,git&perline=8" />
+
+</div>
+
+---
+
+## what i build
+
+- modern interfaces with **Vue.js + Quasar**
+- fast and reliable APIs with **Go** and **Node.js**
+- **WhatsApp** integrations and chatbot flows
+- realtime systems with **WebSocket**
+- customer service and automation platforms
+- containerized environments with **Docker** on **Linux**
+
+---
+
+## currently exploring
+
+- AI agents with function calling
+- queues and workers that survive traffic spikes
+- game development with **Godot**
+
+---
+
+## github stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ryujiee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujiee&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=ryujiee&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### building modern systems with clean ui, fast backends and smart integrations
 
 </div>
