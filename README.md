@@ -7,7 +7,7 @@
 Construo plataformas de atendimento, integrações com WhatsApp/Meta e automações com IA que aguentam produção.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![E-mail](https://img.shields.io/badge/E--mail-610659?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![E-mail](https://img.shields.io/badge/E--mail-610659?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo@infinitytech.net.br)
 
 </div>
 
